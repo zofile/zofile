@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @zofile
-- 👀 I’m interested in bioinfirmatics and computational biology.
-- 🌱 I’m currently studying in [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+Sapientia est potentia
